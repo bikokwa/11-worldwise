@@ -35,30 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
-    },
-    {
-      "id": "1aa6",
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-05-08T03:11:42.098Z",
-      "notes": "castello!",
-      "position": {
-        "lat": "40.02197041838083",
-        "lng": "0.02832412719726563"
-      }
-    },
-    {
-      "id": "98fd",
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-05-08T03:21:07.813Z",
-      "notes": "castello!!!!",
-      "position": {
-        "lat": "40.045627696813824",
-        "lng": "-0.013389587402343752"
-      }
     }
   ]
 }
